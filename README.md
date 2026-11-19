@@ -8,7 +8,7 @@ I'm a Backend Developer passionate about designing and developing reliable softw
 
 I enjoy solving problems, building RESTful APIs, working with databases, and exploring software architecture.
 
-My primary focus is backend development with Java, Spring Boot, C#, and .NET.
+My primary focus is backend development with Java, Spring Boot Nodejs .
 
 🇹🇷 **Hakkımda**
 
@@ -20,20 +20,11 @@ RESTful API geliştirme, veritabanı tasarımı, yazılım mimarisi ve problem �
 
 ## ⚡ Tech Stack
 
-**Backend**
+**Languages and Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,java,spring,nodejs,express,nextjs,nestjs,docker,linux,react,git,aws,postgres,redis" />
 </p>
 
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,tailwind" />
-</p>
-
-**Database & Infrastructure**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,git,github" />
-</p>
 
 ---
 
@@ -56,7 +47,6 @@ An e-commerce application focused on backend architecture and API development.
 ## 📚 Currently Learning
 
 - Advanced Java & Spring Boot
-- ASP.NET Core
 - RESTful API Design
 - Clean Architecture & Design Patterns
 - Database Design & Optimization
@@ -67,8 +57,8 @@ An e-commerce application focused on backend architecture and API development.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmetkecici4142&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkecici4142&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
